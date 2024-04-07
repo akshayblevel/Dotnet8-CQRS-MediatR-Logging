@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jJjzhgi1+ozFvMHgCDH5/bd2PsF8DJeLOf2q71xSfg8=",
+  "Source": "Dotnet8-CQRS-MediatR-Logging",
+  "BasePath": "_content/Dotnet8-CQRS-MediatR-Logging",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
